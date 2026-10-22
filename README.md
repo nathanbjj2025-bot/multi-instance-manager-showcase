@@ -56,6 +56,10 @@ A aplicação permite selecionar e gerenciar múltiplas
 contas, configurar a ordem de login e executar
 processos automatizados.
 
+### Vídeo de demonstração
+
+https://github.com/user-attachments/assets/6cf27ab6-6483-46e4-b4ac-c4342149c3d8
+
 ## Código-fonte
 
 O código-fonte completo é mantido em um repositório privado por se tratar de um projeto comercial independente.
