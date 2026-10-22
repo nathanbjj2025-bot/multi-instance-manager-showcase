@@ -48,7 +48,13 @@ Durante o desenvolvimento, trabalhei com:
 
 ## Demonstração
 
-Capturas de tela e vídeos do funcionamento da aplicação serão adicionados ao projeto.
+### Interface principal
+
+![Interface do Gerenciador de Instâncias](tela-principal.png)
+
+A aplicação permite selecionar e gerenciar múltiplas
+contas, configurar a ordem de login e executar
+processos automatizados.
 
 ## Código-fonte
 
